@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="16" fill="#5B496D"/>
+  <circle cx="50" cy="14" r="5" fill="#E990A5"/>
+  <circle cx="14" cy="50" r="4" fill="#F5BDAA"/>
+  <text x="32" y="43" font-family="'Newsreader', Georgia, serif" font-size="34" font-weight="600" fill="#FAFAFA" text-anchor="middle">K</text>
+</svg>
